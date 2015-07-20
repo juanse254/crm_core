@@ -6,6 +6,8 @@
 
 namespace Drupal\crm_core_default_matching_engine\Tests;
 
+use Drupal\contact\Tests\Views\ContactFieldsTest;
+use Drupal\crm_core_contact\ContactInterface;
 use Drupal\crm_core_contact\Entity\Contact;
 use Drupal\field\Entity\FieldConfig;
 use Drupal\field\Entity\FieldStorageConfig;
